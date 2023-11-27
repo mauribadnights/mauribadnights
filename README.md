@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mauribadnights
 - 👀 I’m interested in low level programming and web development
-- 🌱 I’m currently learning Rust, C and WebAssembly
+- 🌱 I’m currently learning Rust and C
 - 📫 Contact me through Discord: mauribadnights#1072
 
 <!---
